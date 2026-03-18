@@ -1,2 +1,5 @@
 # TA-test
-operations of TA
+## 📋 Group Name-list
+
+- **JxGui**: 13292066811 (Support TA)
+- **GitHub username**: QMID (Lead/Member)
